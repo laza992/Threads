@@ -1,2 +1,2 @@
 # Treads
-Demo App for track your running
+Demo App for tracking your running
